@@ -27,6 +27,7 @@ public class Main{
     System.out.println("Prediccion ("+average+") = "+(b0+b1*average));
 
     reader.close();
+    
   }
 
 
